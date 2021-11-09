@@ -5,7 +5,7 @@
 
 
 - 🔭  Estou migrando da area administrativa para area da tecnologia de Front End|UI/UX
-- 🌱  Atualmente estou estudando as linguagens de Front End
+- 🌱  Estou estudando atualmente  linguagens de Front End
 
 
 - ### Habilidades 
