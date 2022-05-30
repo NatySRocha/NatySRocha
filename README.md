@@ -2,9 +2,11 @@
 ### 👩  Olá, sou a  Natalia!
 
 
--👩‍🎓 Desenvovedora de FullStack - Generation Brasil 
-- 🔭  Estou migrando da area administrativa para area da tecnologia de Front End|UI/UX
-- 🌱  Estou estudando atualmente  linguagens de Front End
+-👩‍🎓 Desenvovedora de FullStack - Let's Code
+- 🔭  Migrei da area administrativa para area da tecnologia de Front End|UI/UX
+-  Cursando Sistemas  para Internet e 
+- 🌱  Trainee de TI - Vitat
+
 
 
 - ### Habilidades 
