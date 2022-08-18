@@ -2,10 +2,10 @@
 ### 👩  Olá, sou a  Natalia!
 
 
--👩‍🎓 Desenvovedora de FullStack - Let's Code
+-👩‍🎓 Desenvovedora de Front End Jr
 - 🔭  Migrei da area administrativa para area da tecnologia de Front End|UI/UX
 -  Cursando Sistemas  para Internet e 
-- 🌱  Trainee de TI - Vitat
+- 🌱  Dev I - Vitat
 
 
 
